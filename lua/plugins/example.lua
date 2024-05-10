@@ -19,7 +19,9 @@ return {
       colorscheme = "gruvbox",
     },
   },
-
+  {
+    "styled-components/vim-styled-components",
+  },
   -- change trouble config
   {
     "folke/trouble.nvim",
